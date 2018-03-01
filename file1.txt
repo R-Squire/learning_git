@@ -1,1 +1,2 @@
 this is my text file
+now there is 2 lines in here.
